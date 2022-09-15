@@ -38,7 +38,7 @@ How to Change the Twitter Source Label
 
 14. Just click on the Regenerate and Generate buttons respectively to create a fresh API key, API Key Secret, Access Token, and Access Token Secret. Copy and save these 4 keys aside as they will be useful later.
 
-15. Now you have access to Twitter APIs. To create a Twitter app, you need to download Python. Open the Python website and download the python for your OS.
+15. Now download and install latest version of python on your terminal. And download and install tweepy with command and open the directory containing Custom-twitter-Lable.py
 
 16.Now open the Custom-Twitter_Lable.py using nano on terminal and place all the codes in right locations
 
