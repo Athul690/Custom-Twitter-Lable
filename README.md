@@ -6,4 +6,4 @@ To the name of there company they can do it, or if someone jest want to have som
 
 In order for this app to work you need to install tweepy on terminal
 Currently I don have a GUI for it coding a GUI is out of my capability may be on future I might try to do something with GUI
-When it comes to coding i am an newbie and the given code can alot better so feel free to do that
+When it comes to coding i am an newbie and the given code can alot better so feel free to do so
